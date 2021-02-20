@@ -1,0 +1,20 @@
+{
+  "name": "ytmuzicapp",
+  "version": "1.0.0",
+  "description": "Youtube music desktop client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "YT",
+    "Desk"
+  ],
+  "author": "Ande Caleb",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.3.0",
+    "electron-packager": "^15.2.0"
+  }
+}
